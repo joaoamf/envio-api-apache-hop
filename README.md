@@ -7,8 +7,9 @@ Este projeto demonstra como utilizar o Apache Hop para automatizar o envio de da
 
 ## 🛠️ Ferramentas
 - Apache Hop
+- Banco SQLite
 - Banco Oracle
-- REST API com autenticação
+- REST API
 
 ## 🔁 Pipeline
 - **Consulta SQL** → **Transformação de dados** → **Envio via HTTP POST**- 
