@@ -16,5 +16,5 @@ Este projeto demonstra como utilizar o Apache Hop para automatizar o envio de da
 
 ## 🔗 Requisitos
 - Apache Hop instalado
-- Conexão com Oracle configurada
-- Endpoint da API com autenticação disponível
+- Conexão com Oracle e SQLite configurada
+- Endpoint da API
