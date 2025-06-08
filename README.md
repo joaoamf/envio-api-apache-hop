@@ -19,6 +19,13 @@ Este projeto demonstra como utilizar o Apache Hop para automatizar o envio de da
 <p align="center">
   <img src="docs/pipeline-hop.png" width="600" alt="Pipeline no Apache Hop" />
 </p>
+<p align="center">
+  <img src="docs/dados-sqlite.png" width="600" alt="Dados no Table Input" />
+</p>
+<p align="center">
+  <img src="docs/db_sqlite.png" width="600" alt="Dados no SQLite" />
+</p>
+
 
 
 ## 🔗 Requisitos
