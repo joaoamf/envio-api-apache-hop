@@ -51,7 +51,7 @@ Este projeto demonstra como utilizar o Apache Hop para automatizar o envio de da
 </p>
 
 📽️ Demonstração em vídeo:
-[Assista](docs/demonstracao.mkv)
+[Assista no YouTube](https://youtu.be/gtzFf_wsigU)
 
 ## 🔗 Requisitos
 - Apache Hop instalado
