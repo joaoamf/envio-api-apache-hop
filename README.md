@@ -16,7 +16,7 @@ Este projeto demonstra como utilizar o Apache Hop para automatizar o envio de da
 
   <h3>📸 Visual do Pipeline</h3>
 
-<p align="center">
+<p align="right">
   <img src="docs/pipeline-hop.png" width="1000" alt="Pipeline no Apache Hop" />
 </p>
 <p align="center">
