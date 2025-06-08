@@ -41,6 +41,9 @@ Este projeto demonstra como utilizar o Apache Hop para automatizar o envio de da
   <img src="docs/resposta-api.png" width="1000" alt="DUMMY-Resposta API" />
 </p>
 <p align="center">
+  <img src="docs/dados-inserido.png" width="1000" alt="DUMMY-Resposta API" />
+</p>
+<p align="center">
   <img src="docs/payload.png" width="1000" alt="Dados Enviado do SQLite" />
 </p>
 <p align="center">
