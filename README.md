@@ -50,6 +50,8 @@ Este projeto demonstra como utilizar o Apache Hop para automatizar o envio de da
   <img src="docs/db_oracle.png" width="1000" alt="Dados Inseridos no Oracle" />
 </p>
 
+📽️ Demonstração em vídeo:
+[Assista](docs/demonstracao.mkv)
 
 ## 🔗 Requisitos
 - Apache Hop instalado
