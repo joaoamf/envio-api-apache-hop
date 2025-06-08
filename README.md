@@ -12,7 +12,7 @@ Este projeto demonstra como utilizar o Apache Hop para automatizar o envio de da
 - REST API
 
 ## 🔁 Pipeline
-- **Consulta SQL** → **Transformação de dados** → **Envio via HTTP POST**- 
+- **Consulta SQL** → **Transformação de dados** → **Envio via HTTP POST** → **Resposta API com resultado**- 
 
 ## 🔗 Requisitos
 - Apache Hop instalado
