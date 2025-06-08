@@ -44,8 +44,9 @@ Este projeto demonstra como utilizar o Apache Hop para automatizar o envio de da
   <img src="docs/payload.png" width="1000" alt="Dados Enviado do SQLite" />
 </p>
 <p align="center">
-  <img src="docs/dados-inserido.png" width="1000" alt="Dados Inseridos no Oracle" />
+  <img src="docs/db_oracle.png" width="1000" alt="Dados Inseridos no Oracle" />
 </p>
+
 
 ## 🔗 Requisitos
 - Apache Hop instalado
